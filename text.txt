@@ -1,0 +1,4 @@
+hey i am trying to find max occurred word in the file, hey
+have you tried finding it You should try once
+Max occurred word
+Max
